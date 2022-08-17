@@ -1,0 +1,39 @@
+.mtop-5{
+  margin-top:6rem!important
+}
+.mleft-5{
+  margin-left: 32rem!important
+}
+.mbot-5{
+  margin-bottom:14rem!important
+}
+.bg-game{
+  background-image: url("../img/Bg.jpg");
+}
+.nav-font{
+  font-family: "Source Sans Pro";
+  font-size: 16px;
+}
+
+.title-store{
+  font-family: "Merriweather";
+  font-size: 18px;
+}
+
+.title-store-bold{
+  font-family: "Merriweather";
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.fa-envelope{
+  color: #A8CF45;
+  font-size: 2rem;
+}
+
+.fa-comment-dots{
+  font-size: 22px;
+}
+
+
+
