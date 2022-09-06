@@ -1,0 +1,27 @@
+{
+  "name": "gg-stores",
+  "version": "1.0.0",
+  "description": "GGStores adalah platform jual beli game komputer yang dibuat menggunakan javascript, css, dan html serta dibantu dengan Bootstrap.",
+  "private": true,
+  "scripts": {
+    "start": "webpack serve",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridho21/GG-Stores.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ridho21/GG-Stores/issues"
+  },
+  "homepage": "https://github.com/ridho21/GG-Stores#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.10.1"
+  }
+}
